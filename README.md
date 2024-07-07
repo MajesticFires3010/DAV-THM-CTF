@@ -1,6 +1,3 @@
-# DAV-THM-CTF
-DAV THM CTF Walkthrough
-```markdown
 # DAV THM CTF Walkthrough
 
 Solving DAV TryHackMe Capture The Flag [DAV TryHackMe Room](https://tryhackme.com/r/room/bsidesgtdav)
